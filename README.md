@@ -11,4 +11,4 @@ The LM was constructed using lyrics discographies from several artist.
 
 ##Database Corpus
 The database used was ACOMUS corpus.
-The construction of this corpus can be founded in *github.com/groadabike/ACOMUS*
+The construction of this corpus can be founded in [ACOMUS](http://github.com/groadabike/ACOMUS) 
