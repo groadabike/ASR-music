@@ -1,0 +1,4 @@
+/home/acp15gr/lyrics/database/id_files/covers_chunk_guitar.txt
+/home/acp15gr/lyrics/database/id_files/covers_chunk_piano.txt
+#/home/gerardo/ARS-Music/lyrics/database/id_files/covers_chunk_guitar.txt
+#/home/gerardo/ARS-Music/lyrics/database/id_files/covers_chunk_piano.txt
