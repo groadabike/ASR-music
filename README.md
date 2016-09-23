@@ -1,14 +1,18 @@
-# ASR-music
-Content of the research project on ASR in music. This repository contain the Kaldi's recipe and the explanation of how to use it.
+**Author Gerardo Roa Dabike**
+**Supervisor Jon Barker**
 
-The directorie _asr-music_ is the kaldi recepie 
+# Automatic Speech Recognition in Music
+
+This repository contain the Kaldi's recipe for the Dissertation project and the explanation of how to use it.
+
+The directory _asr-music_ is the kaldi recipe 
 
 ## Acoustic Model
 The lexicon used in this project was CMUdict
 
-##Languaje Model
+## Languaje Model
 The LM was constructed using lyrics discographies from several artist.
 
-##Database Corpus
-The database used was ACOMUS corpus.
+## Database Corpus
+The database used was ACOMUS1 corpus.
 The construction of this corpus can be founded in [ACOMUS](http://github.com/groadabike/ACOMUS) 
